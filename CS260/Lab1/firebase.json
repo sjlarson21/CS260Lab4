@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "lab-1-portfolio-sjlarson21",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
